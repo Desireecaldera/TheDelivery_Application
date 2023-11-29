@@ -1,14 +1,10 @@
-# Expo Router Example
+# The Delivery
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This application is intended to be the "Postmates" or "DoorDash" of cannabis products from a brand called InsaneOG.
 
-## 🚀 How to use
+This development of this app is actively in progress. Future commits and changes can be seen in this repository. 
 
-```sh
-npx create-expo-app -e with-router
-```
+## 🚀 Tools
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+* React Native
+* Expo Router
